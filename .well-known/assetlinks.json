@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "app.wooflearn.android",
+               "sha256_cert_fingerprints": ["AC:C7:18:6C:80:EC:D2:58:DA:97:BB:8E:2D:85:08:99:98:CD:53:C6:5C:39:F6:D2:81:74:2C:42:70:22:A2:81"] }
+}]
