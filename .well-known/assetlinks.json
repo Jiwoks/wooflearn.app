@@ -1,5 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "app.wooflearn.android",
-               "sha256_cert_fingerprints": ["BE:45:73:D8:10:E7:73:79:0E:54:5D:E9:88:CF:5A:3F:38:4A:01:5F:AE:F0:9A:CC:8A:43:D5:C0:8B:CD:67:07"] }
-}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.wooflearn.android",
+      "sha256_cert_fingerprints":
+        ["D2:26:35:D3:3C:AC:25:37:47:4B:29:34:EA:AF:58:8C:42:C3:57:BC:B1:78:A9:00:AE:3F:04:A8:9A:7E:36:5E"]
+    }
+  }
+]
